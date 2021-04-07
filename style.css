@@ -1,0 +1,19 @@
+body {
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  font-size: 4rem;
+}
+span {
+  margin-top: 1rem;
+  font-size: 5rem;
+  margin-left: 8rem;
+}
+button {
+  margin-top: 2rem;
+  padding: 0.2rem 1.2rem;
+  cursor: pointer;
+}
